@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Text.Json.Serialization;
 
-namespace FrameworkGamificacao.Models.Database
+namespace Ludus.Models.Database
 {
     public class AbstractEntity
     {

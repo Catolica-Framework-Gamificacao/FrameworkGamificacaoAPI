@@ -1,4 +1,4 @@
-﻿namespace FrameworkGamificacao.Models.User
+﻿namespace Ludus.Models.User
 {
     public class UserConfigurationModel
     {
