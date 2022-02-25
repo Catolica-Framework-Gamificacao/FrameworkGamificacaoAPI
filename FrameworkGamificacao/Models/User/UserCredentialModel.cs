@@ -3,9 +3,9 @@
     public class UserCredentialModel
     {
 
-        private string Login { get; set; } = string.Empty;
+        public string Login { get; set; } = string.Empty;
 
-        private string Password { get; set; } = string.Empty;
+        public string Password { get; set; } = string.Empty;
 
     }
 }
