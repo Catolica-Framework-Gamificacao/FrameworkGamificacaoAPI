@@ -8,5 +8,7 @@ namespace FrameworkGamificacaoClasses
 {
 	public class AlunoFiltro
 	{
+		public int RA { get; set; }
+
 	}
 }

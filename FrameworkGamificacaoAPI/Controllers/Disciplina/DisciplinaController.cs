@@ -29,13 +29,25 @@ namespace FrameworkGamificacaoAPI
 		public IEnumerable<Disciplina> GetAll()
 		{
 			List<Disciplina> disciplinas = new();
-			using (IDbConnection connection = new SqlConnection(Configuration.GetConnectionString("AzureConnection")))
+			using (SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection")))
 			{
 				connection.Open();
 				disciplinas = new DisciplinaDAO(connection).FindAll(new DisciplinaFiltro());
 				connection.Close();
 			}
 			return disciplinas;
+		}
+
+		[HttpPost]
+		[Route("saveDisciplina")]
+		public Disciplina Save(Disciplina disciplina)
+		{
+			using SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection"));
+			connection.Open();
+			var disciplinaDAO = new DisciplinaDAO(connection);
+			disciplinaDAO.Save(disciplina);
+			connection.Close();
+			return disciplina;
 		}
 	}
 }

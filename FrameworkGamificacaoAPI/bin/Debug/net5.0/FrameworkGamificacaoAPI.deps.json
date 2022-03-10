@@ -651,6 +651,9 @@
         }
       },
       "CtlFrameworkGamificacao/1.0.0": {
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.3"
+        },
         "runtime": {
           "CtlFrameworkGamificacao.dll": {}
         },

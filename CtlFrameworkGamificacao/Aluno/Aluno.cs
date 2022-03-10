@@ -13,11 +13,11 @@ namespace FrameworkGamificacaoClasses
 		public string NomeAluno { get; set; }
 		public List<Disciplina> Disciplinas { get; set; }
 		public bool ExibirNome { get; set; }
-		public Dictionary<Disciplina,decimal> PontosDisciplina { get; set; }
-		public Aluno(bool existe, int rA, string nomeAluno, List<Disciplina> disciplinas, bool exibirNome, Dictionary<Disciplina, decimal> pontosDisciplina)
+		public Dictionary<int,decimal> PontosDisciplina { get; set; }
+		public Aluno(bool existe, int ra, string nomeAluno, List<Disciplina> disciplinas, bool exibirNome, Dictionary<int, decimal> pontosDisciplina)
 		{
 			Existe = existe;
-			RA = rA;
+			RA = ra;
 			NomeAluno = nomeAluno;
 			Disciplinas = disciplinas;
 			ExibirNome = exibirNome;

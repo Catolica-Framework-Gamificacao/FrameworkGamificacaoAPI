@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -9,7 +10,7 @@ namespace FrameworkGamificacaoClasses
 {
 	public class ProfessorDAO : DAO<ProfessorFiltro,Professor>
 	{
-		public ProfessorDAO(IDbConnection connection): base(connection)
+		public ProfessorDAO(SqlConnection connection): base(connection)
 		{
 		}
 

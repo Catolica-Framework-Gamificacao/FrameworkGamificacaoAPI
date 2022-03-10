@@ -1,15 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Data;
+using System.Data.SqlClient;
 using System.Linq;
 
 namespace FrameworkGamificacaoClasses
 {
     public abstract class DAO<F, T>
     {
-        public virtual IDbConnection Connection { get; set; }
+        public virtual SqlConnection Connection { get; set; }
 
-        public DAO(IDbConnection connection)
+        public DAO(SqlConnection connection)
         {
             Connection = connection;
         }

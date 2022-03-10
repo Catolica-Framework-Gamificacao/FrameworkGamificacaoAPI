@@ -29,7 +29,7 @@ namespace FrameworkGamificacaoAPI
 		public IEnumerable<Professor> GetAll()
 		{
 			List<Professor> professores = new();
-			using (IDbConnection connection = new SqlConnection(Configuration.GetConnectionString("AzureConnection")))
+			using (SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection")))
 			{
 				connection.Open();
 				professores =  new ProfessorDAO(connection).FindAll(new ProfessorFiltro());

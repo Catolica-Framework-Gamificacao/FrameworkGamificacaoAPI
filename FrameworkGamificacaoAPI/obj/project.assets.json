@@ -365,6 +365,9 @@
       "CtlFrameworkGamificacao/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "System.Data.SqlClient": "4.8.3"
+        },
         "compile": {
           "bin/placeholder/CtlFrameworkGamificacao.dll": {}
         },
@@ -1138,7 +1141,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.211\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.212\\RuntimeIdentifierGraph.json"
       }
     }
   }

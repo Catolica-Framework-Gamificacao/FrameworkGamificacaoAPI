@@ -4,12 +4,13 @@ using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Data.SqlClient;
 
 namespace FrameworkGamificacaoClasses
 {
 	public class DisciplinaDAO : DAO<DisciplinaFiltro,Disciplina>
 	{
-		public DisciplinaDAO(IDbConnection connection) : base(connection)
+		public DisciplinaDAO(SqlConnection connection) : base(connection)
 		{
 		}
 
@@ -37,7 +38,24 @@ namespace FrameworkGamificacaoClasses
 
 		public override void Save(Disciplina obj)
 		{
-			throw new NotImplementedException();
+			string strSQL;
+			if (!obj.Existe)
+			{
+				strSQL = @"INSERT INTO CtlCadDisciplina(nomeDisciplina) VALUES(@nomeDisciplina)
+						   Select Scope_Identity()";
+				SqlCommand comando = new(strSQL, Connection);
+				comando.Parameters.Add(new SqlParameter("@nomeDisciplina", obj.NomeDisciplina));
+				obj.CodDisciplina = Convert.ToInt32(comando.ExecuteScalar());
+				obj.Existe = true;
+			}
+			else
+			{
+				strSQL = "UPDATE CtlCadDisciplina set nomeDisciplina=@nomeDisciplina WHERE codDisciplina=@codDisciplina";
+				SqlCommand comando = new(strSQL, Connection);
+				comando.Parameters.Add(new SqlParameter("@codDisciplina", obj.CodDisciplina));
+				comando.Parameters.Add(new SqlParameter("@nomeDisciplina", obj.NomeDisciplina));
+				comando.ExecuteScalar();
+			}
 		}
 
 		public override void Delete(Disciplina obj)
