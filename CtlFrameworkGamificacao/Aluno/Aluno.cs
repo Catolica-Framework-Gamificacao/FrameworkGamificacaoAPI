@@ -10,18 +10,21 @@ namespace FrameworkGamificacaoClasses
 	{
 		public bool Existe { get; set; }
 		public int RA { get; set; }
+		public string UsuarioAluno { get; set; }
 		public string NomeAluno { get; set; }
-		public List<Disciplina> Disciplinas { get; set; }
+		public string EmailAluno { get; set; }
+
+		public List<AlunoDisciplina> Disciplinas { get; set; }
 		public bool ExibirNome { get; set; }
-		public Dictionary<int,decimal> PontosDisciplina { get; set; }
-		public Aluno(bool existe, int ra, string nomeAluno, List<Disciplina> disciplinas, bool exibirNome, Dictionary<int, decimal> pontosDisciplina)
+		public Aluno(bool existe, int ra,string usuarioAluno, string nomeAluno,string emailAluno, List<AlunoDisciplina> disciplinas, bool exibirNome)
 		{
 			Existe = existe;
 			RA = ra;
 			NomeAluno = nomeAluno;
+			UsuarioAluno = usuarioAluno;
+			EmailAluno = emailAluno;
 			Disciplinas = disciplinas;
 			ExibirNome = exibirNome;
-			PontosDisciplina = pontosDisciplina;
 		}
 	}
 }

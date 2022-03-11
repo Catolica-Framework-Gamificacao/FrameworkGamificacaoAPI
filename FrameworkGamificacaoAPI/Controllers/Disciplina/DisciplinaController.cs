@@ -39,15 +39,54 @@ namespace FrameworkGamificacaoAPI
 		}
 
 		[HttpPost]
+		[Route("getPontosDisciplina")]
+		public IEnumerable<AlunoDisciplina> GetPontosDisciplina(int codDisciplina)
+		{
+			if (codDisciplina == 0) throw new ArgumentNullException("Disciplina");
+			List<AlunoDisciplina> disciplinas = new();
+			using (SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection")))
+			{
+				connection.Open();
+				disciplinas = new AlunoDisciplinaDAO(connection).FindAll(new AlunoFiltro { CodDisciplina = codDisciplina});
+				connection.Close();
+			}
+			return disciplinas;
+		}
+
+		[HttpPut]
 		[Route("saveDisciplina")]
 		public Disciplina Save(Disciplina disciplina)
 		{
+			ValidateDisciplina(disciplina);
 			using SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection"));
-			connection.Open();
-			var disciplinaDAO = new DisciplinaDAO(connection);
-			disciplinaDAO.Save(disciplina);
-			connection.Close();
+			{
+				connection.Open();
+				var disciplinaDAO = new DisciplinaDAO(connection);
+				disciplinaDAO.Save(disciplina);
+				connection.Close();
+			}
 			return disciplina;
+		}
+
+		[HttpDelete]
+		[Route("deleteDisciplina")]
+		public bool Delete(Disciplina disciplina)
+		{
+			ValidateDisciplina(disciplina);
+			using SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection"));
+			{
+				connection.Open();
+				var disciplinaDAO = new DisciplinaDAO(connection);
+				disciplinaDAO.Delete(disciplina);
+				connection.Close();
+			}
+			return true;
+		}
+
+		private static void ValidateDisciplina(Disciplina disciplina)
+		{
+			if (disciplina == null) throw new ArgumentNullException(disciplina.ToString());
+			if (disciplina.Existe && disciplina.CodDisciplina == 0) throw new ArgumentNullException(disciplina.ToString());
 		}
 	}
 }

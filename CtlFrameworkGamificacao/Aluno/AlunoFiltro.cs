@@ -8,7 +8,10 @@ namespace FrameworkGamificacaoClasses
 {
 	public class AlunoFiltro
 	{
-		public int RA { get; set; }
+		public int? RA { get; set; }
 
+		public string UsuarioAluno { get; set; }
+
+		public int? CodDisciplina { get; set; }
 	}
 }

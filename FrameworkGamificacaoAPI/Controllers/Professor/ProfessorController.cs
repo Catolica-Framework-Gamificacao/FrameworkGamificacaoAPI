@@ -37,5 +37,19 @@ namespace FrameworkGamificacaoAPI
 			}
 			return professores;
 		}
+
+		[HttpPost]
+		[Route("loginProfessor")]
+		public Professor LoginProfessor(ProfessorFiltro login)
+		{
+			Professor professor;
+			using(SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection")))
+			{
+				connection.Open();
+				professor = new ProfessorDAO(connection).FindOne(login);
+				connection.Close();
+			}
+			return professor;
+		}
 	}
 }

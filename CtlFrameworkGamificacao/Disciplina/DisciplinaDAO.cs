@@ -32,8 +32,8 @@ namespace FrameworkGamificacaoClasses
 		internal override Disciplina LoadObject(IDataReader dr)
 		{
 			return new Disciplina(true
-								 ,(int)dr["codDisciplina"]
-								 ,(string)dr["nomeDisciplina"]);
+								 , Convert.ToInt32(dr["codDisciplina"])
+								 , Convert.ToString(dr["nomeDisciplina"]));
 		}
 
 		public override void Save(Disciplina obj)
@@ -60,7 +60,10 @@ namespace FrameworkGamificacaoClasses
 
 		public override void Delete(Disciplina obj)
 		{
-			throw new NotImplementedException();
+			string strSQL = "DELETE FROM CtlCadDisciplina WHERE codDisciplina=@codDisciplina";
+			SqlCommand comando = new(strSQL, Connection);
+			comando.Parameters.Add(new SqlParameter("@codDisciplina", obj.CodDisciplina));
+			comando.ExecuteNonQuery();
 		}
 	}
 }

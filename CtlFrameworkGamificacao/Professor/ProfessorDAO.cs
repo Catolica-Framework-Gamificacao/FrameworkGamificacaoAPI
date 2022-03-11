@@ -29,7 +29,14 @@ namespace FrameworkGamificacaoClasses
 			{
 				strSQL += $" AND PF.usuario = '{filtro.Usuario}'";
 			}
-
+			if (!string.IsNullOrEmpty(filtro.Email))
+			{
+				strSQL += $" AND PF.email = '{filtro.Email}'";
+			}
+			if (!string.IsNullOrEmpty(filtro.Senha))
+			{
+				strSQL += $" AND PF.senha = '{filtro.Senha}'";
+			}
 
 			return strSQL;
 		}
@@ -37,11 +44,11 @@ namespace FrameworkGamificacaoClasses
 		internal override Professor LoadObject(IDataReader dr)
 		{
 			return new Professor(true
-								, (int)dr["codProfessor"]
-								, (string)dr["nomeProfessor"]
-								, (string)dr["usuario"]
-								, (string)dr["email"]
-								, (string)dr["senha"]);
+								, Convert.ToInt32(dr["codProfessor"])
+								, Convert.ToString(dr["nomeProfessor"])
+								, Convert.ToString(dr["usuario"])
+								, Convert.ToString(dr["email"])
+								, Convert.ToString(dr["senha"]));
 		}
 
 		public override void Delete(Professor obj)
