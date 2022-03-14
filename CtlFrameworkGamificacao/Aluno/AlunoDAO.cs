@@ -73,6 +73,58 @@ namespace FrameworkGamificacaoClasses
 							, Convert.ToBoolean(dr["exibirNome"]));
 		}
 
+		public override void SaveTransaction(Aluno obj, SqlTransaction transaction)
+		{
+			string strSQL;
+			if (!obj.Existe)
+			{
+				strSQL = @"INSERT INTO CtlCadAluno(usuarioAluno,RA,nomeAluno,emailAluno,exibirNome)
+						   VALUES(@usuarioAluno,@RA,@nomeAluno,@emailAluno,@exibirNome) ";
+				SqlCommand comando = new(strSQL, Connection, transaction);
+				comando.Parameters.Add(new SqlParameter("@usuarioAluno", obj.UsuarioAluno));
+				comando.Parameters.Add(new SqlParameter("@RA", obj.RA));
+				comando.Parameters.Add(new SqlParameter("@nomeAluno", obj.NomeAluno));
+				comando.Parameters.Add(new SqlParameter("@emailAluno", obj.EmailAluno));
+				comando.Parameters.Add(new SqlParameter("@exibirNome", obj.ExibirNome));
+				comando.ExecuteScalar();
+				obj.Existe = true;
+
+				AlunoDisciplinaDAO alunoDisciplinaDAO = new(Connection);
+				alunoDisciplinaDAO.DeleteTransaction(new AlunoDisciplina(null, obj.UsuarioAluno, 0),transaction);
+				foreach (AlunoDisciplina disciplina in obj.Disciplinas)
+				{
+					alunoDisciplinaDAO.SaveTransaction(disciplina, transaction);
+				}
+			}
+			else
+			{
+				strSQL = @"UPDATE CtlCadAluno SET RA=@RA,nomeAluno=@nomeAluno,emailAluno=@emailAluno,exibirNome=@exibirNome 
+						   WHERE usuarioAluno=@usuarioAluno";
+				SqlCommand comando = new(strSQL, Connection, transaction);
+				comando.Parameters.Add(new SqlParameter("@usuarioAluno", obj.UsuarioAluno));
+				comando.Parameters.Add(new SqlParameter("@RA", obj.RA));
+				comando.Parameters.Add(new SqlParameter("@nomeAluno", obj.NomeAluno));
+				comando.Parameters.Add(new SqlParameter("@emailAluno", obj.EmailAluno));
+				comando.Parameters.Add(new SqlParameter("@exibirNome", obj.ExibirNome));
+				comando.ExecuteScalar();
+
+				AlunoDisciplinaDAO alunoDisciplinaDAO = new(Connection);
+				alunoDisciplinaDAO.DeleteTransaction(new AlunoDisciplina(null, obj.UsuarioAluno, 0), transaction);
+				foreach (AlunoDisciplina disciplina in obj.Disciplinas)
+				{
+					alunoDisciplinaDAO.SaveTransaction(disciplina, transaction);
+				}
+			}
+		}
+		public override void DeleteTransaction(Aluno obj,SqlTransaction transaction)
+		{
+			string strSQL = "DELETE FROM CtlCadAluno WHERE usuarioAluno=@usuarioAluno";
+			SqlCommand comando = new(strSQL, Connection, transaction);
+			comando.Parameters.Add(new SqlParameter("@usuarioAluno", obj.UsuarioAluno));
+			comando.ExecuteNonQuery();
+
+			new AlunoDisciplinaDAO(Connection).DeleteTransaction(new AlunoDisciplina(null, obj.UsuarioAluno, 0),transaction);
+		}
 		public override void Save(Aluno obj)
 		{
 			throw new NotImplementedException();

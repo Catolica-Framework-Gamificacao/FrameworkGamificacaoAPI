@@ -2,7 +2,6 @@ C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificaca
 C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\bin\Debug\net5.0\CtlFrameworkGamificacao.dll
 C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\bin\Debug\net5.0\ref\CtlFrameworkGamificacao.dll
 C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\bin\Debug\net5.0\CtlFrameworkGamificacao.pdb
-C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net5.0\CtlFrameworkGamificacao.csprojAssemblyReference.cache
 C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net5.0\CtlFrameworkGamificacao.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net5.0\CtlFrameworkGamificacao.AssemblyInfoInputs.cache
 C:\Users\movtech\Desktop\Faculdade\FrameworkGamificaçãoAPI\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net5.0\CtlFrameworkGamificacao.AssemblyInfo.cs

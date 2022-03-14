@@ -50,5 +50,23 @@ namespace FrameworkGamificacaoClasses
 		{
 			throw new NotImplementedException();
 		}
+
+		public override void SaveTransaction(AlunoDisciplina obj, SqlTransaction tr)
+		{
+			string strSQL = @"INSERT INTO CtlCadAlunoDisciplina(codDisciplina,usuarioAluno,pontos) VALUES(@codDisciplina,@usuarioAluno,@pontos)";
+			SqlCommand comando = new(strSQL, Connection,tr);
+			comando.Parameters.Add(new SqlParameter("@codDisciplina", obj.Disciplina.CodDisciplina));
+			comando.Parameters.Add(new SqlParameter("@usuarioAluno", obj.UsuarioAluno));
+			comando.Parameters.Add(new SqlParameter("@pontos", obj.Pontos));
+			comando.ExecuteNonQuery();
+		}
+
+		public override void DeleteTransaction(AlunoDisciplina obj, SqlTransaction tr)
+		{
+			string strSQL = "DELETE FROM CtlCadAlunoDisciplina WHERE usuarioAluno=@usuarioAluno";
+			SqlCommand comando = new(strSQL, Connection, tr);
+			comando.Parameters.Add(new SqlParameter("@usuarioAluno", obj.UsuarioAluno));
+			comando.ExecuteNonQuery();
+		}
 	}
 }

@@ -60,5 +60,15 @@ namespace FrameworkGamificacaoClasses
 		{
 			throw new NotImplementedException();
 		}
+
+		public override void SaveTransaction(Professor obj, SqlTransaction tr)
+		{
+			throw new NotImplementedException();
+		}
+
+		public override void DeleteTransaction(Professor obj, SqlTransaction tr)
+		{
+			throw new NotImplementedException();
+		}
 	}
 }

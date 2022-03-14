@@ -65,5 +65,15 @@ namespace FrameworkGamificacaoClasses
 			comando.Parameters.Add(new SqlParameter("@codDisciplina", obj.CodDisciplina));
 			comando.ExecuteNonQuery();
 		}
+
+		public override void SaveTransaction(Disciplina obj, SqlTransaction tr)
+		{
+			throw new NotImplementedException();
+		}
+
+		public override void DeleteTransaction(Disciplina obj, SqlTransaction tr)
+		{
+			throw new NotImplementedException();
+		}
 	}
 }

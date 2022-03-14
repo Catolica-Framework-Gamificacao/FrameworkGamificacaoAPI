@@ -46,6 +46,7 @@ namespace FrameworkGamificacaoClasses
         internal abstract T LoadObject(IDataReader dr);
 
         public abstract void Save(T obj);
+        public abstract void SaveTransaction(T obj, SqlTransaction tr);
 
         internal virtual void Save(List<T> objs)
         {
@@ -68,6 +69,7 @@ namespace FrameworkGamificacaoClasses
         }
 
         public abstract void Delete(T obj);
+        public abstract void DeleteTransaction(T obj, SqlTransaction tr);
 
         internal virtual void Delete(List<T> objs)
         {
