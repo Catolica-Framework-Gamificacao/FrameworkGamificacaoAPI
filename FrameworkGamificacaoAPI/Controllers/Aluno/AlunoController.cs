@@ -5,10 +5,10 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using FrameworkGamificacaoClasses;
 using Microsoft.Extensions.Configuration;
 using System.Data;
 using System.Data.SqlClient;
+using FrameworkGamificacaoClasses;
 
 namespace FrameworkGamificacaoAPI
 {
@@ -49,7 +49,7 @@ namespace FrameworkGamificacaoAPI
 				SqlTransaction tr = connection.BeginTransaction();
 				try
 				{
-					new AlunoDAO(connection).SaveTransaction(aluno,tr);
+					new AlunoDAO(connection).SaveTransaction(aluno, tr);
 					tr.Commit();
 				}
 				catch (Exception ex)
@@ -77,7 +77,7 @@ namespace FrameworkGamificacaoAPI
 				SqlTransaction tr = connection.BeginTransaction();
 				try
 				{
-					new AlunoDAO(connection).DeleteTransaction(aluno,tr);
+					new AlunoDAO(connection).DeleteTransaction(aluno, tr);
 					tr.Commit();
 				}
 				catch (Exception ex)
@@ -96,7 +96,7 @@ namespace FrameworkGamificacaoAPI
 
 		private static void ValidateAluno(Aluno aluno)
 		{
-			if (aluno == null) throw new ArgumentNullException(aluno.ToString());
+			if (aluno == null) throw new ArgumentNullException(aluno!.ToString());
 			if (string.IsNullOrEmpty(aluno.UsuarioAluno)) throw new ArgumentNullException(aluno.ToString());
 		}
 	}

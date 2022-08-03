@@ -1,0 +1,12 @@
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\bin\Debug\net6.0\CtlFrameworkGamificacao.deps.json
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\bin\Debug\net6.0\CtlFrameworkGamificacao.dll
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\bin\Debug\net6.0\CtlFrameworkGamificacao.pdb
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.csproj.AssemblyReference.cache
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.AssemblyInfoInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.AssemblyInfo.cs
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.csproj.CoreCompileInputs.cache
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.dll
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\refint\CtlFrameworkGamificacao.dll
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.pdb
+C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\CtlFrameworkGamificacao\obj\Debug\net6.0\ref\CtlFrameworkGamificacao.dll

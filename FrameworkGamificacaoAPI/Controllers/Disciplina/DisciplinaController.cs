@@ -42,12 +42,12 @@ namespace FrameworkGamificacaoAPI
 		[Route("getPontosDisciplina")]
 		public IEnumerable<AlunoDisciplina> GetPontosDisciplina(int codDisciplina)
 		{
-			if (codDisciplina == 0) throw new ArgumentNullException("Disciplina");
+			if (codDisciplina == 0) throw new ArgumentNullException(codDisciplina!.ToString());
 			List<AlunoDisciplina> disciplinas = new();
 			using (SqlConnection connection = new(Configuration.GetConnectionString("AzureConnection")))
 			{
 				connection.Open();
-				disciplinas = new AlunoDisciplinaDAO(connection).FindAll(new AlunoFiltro { CodDisciplina = codDisciplina});
+				disciplinas = new AlunoDisciplinaDAO(connection).FindAll(new AlunoFiltro { CodDisciplina = codDisciplina });
 				connection.Close();
 			}
 			return disciplinas;
@@ -85,7 +85,7 @@ namespace FrameworkGamificacaoAPI
 
 		private static void ValidateDisciplina(Disciplina disciplina)
 		{
-			if (disciplina == null) throw new ArgumentNullException(disciplina.ToString());
+			if (disciplina == null) throw new ArgumentNullException(disciplina!.ToString());
 			if (disciplina.Existe && disciplina.CodDisciplina == 0) throw new ArgumentNullException(disciplina.ToString());
 		}
 	}

@@ -18,20 +18,19 @@ namespace FrameworkGamificacaoClasses
 		{
 			Validate(filtro);
 
-			var strSQL = $@"SELECT PF.codProfessor
-								  ,PF.nomeProfessor
-								  ,PF.usuario
-								  ,PF.email
+			var strSQL = $@"SELECT PF.nomeProfessor
+								  ,PF.usuarioProfessor
+								  ,PF.emailProfessor
 								  ,PF.senha
 							FROM CtlCadProfessor PF
 							WHERE 1=1";
 			if (!string.IsNullOrEmpty(filtro.Usuario))
 			{
-				strSQL += $" AND PF.usuario = '{filtro.Usuario}'";
+				strSQL += $" AND PF.usuarioProfessor = '{filtro.Usuario}'";
 			}
 			if (!string.IsNullOrEmpty(filtro.Email))
 			{
-				strSQL += $" AND PF.email = '{filtro.Email}'";
+				strSQL += $" AND PF.emailProfessor = '{filtro.Email}'";
 			}
 			if (!string.IsNullOrEmpty(filtro.Senha))
 			{
@@ -44,10 +43,9 @@ namespace FrameworkGamificacaoClasses
 		internal override Professor LoadObject(IDataReader dr)
 		{
 			return new Professor(true
-								, Convert.ToInt32(dr["codProfessor"])
 								, Convert.ToString(dr["nomeProfessor"])
-								, Convert.ToString(dr["usuario"])
-								, Convert.ToString(dr["email"])
+								, Convert.ToString(dr["usuarioProfessor"])
+								, Convert.ToString(dr["emailProfessor"])
 								, Convert.ToString(dr["senha"]));
 		}
 
