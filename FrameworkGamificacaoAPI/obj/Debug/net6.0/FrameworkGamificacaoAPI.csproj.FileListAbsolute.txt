@@ -1,92 +1,138 @@
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.exe
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.deps.json
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.runtimeconfig.json
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.pdb
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\CtlFrameworkGamificacao.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\CtlFrameworkGamificacao.pdb
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.csproj.AssemblyReference.cache
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.AssemblyInfoInputs.cache
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.AssemblyInfo.cs
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\scopedcss\bundle\FrameworkGamificacaoAPI.styles.css
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.csproj.CopyComplete
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\refint\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.pdb
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.genruntimeconfig.cache
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\ref\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Scrutor.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
-C:\Users\cadu-\Desktop\FACULDADE\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\appsettings.Development.json
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\appsettings.json
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.exe
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.deps.json
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.runtimeconfig.json
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\FrameworkGamificacaoAPI.pdb
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Scrutor.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\CtlFrameworkGamificacao.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\bin\Debug\net6.0\CtlFrameworkGamificacao.pdb
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.csproj.AssemblyReference.cache
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.AssemblyInfoInputs.cache
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.AssemblyInfo.cs
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\staticwebassets.build.json
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\staticwebassets.development.json
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\scopedcss\bundle\FrameworkGamificacaoAPI.styles.css
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.csproj.CopyComplete
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\refint\FrameworkGamificacaoAPI.dll
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.pdb
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\FrameworkGamificacaoAPI.genruntimeconfig.cache
-C:\Users\cadu-\Desktop\FACULDADE\Projeto Framework Gamificação\FrameworkGamificacaoAPI\FrameworkGamificacaoAPI\obj\Debug\net6.0\ref\FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.exe
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.deps.json
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.runtimeconfig.json
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.AssemblyInfoInputs.cache
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.AssemblyInfo.cs
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/scopedcss/bundle/FrameworkGamificacaoAPI.styles.css
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CopyComplete
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.genruntimeconfig.cache
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Scrutor.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll
+C:/Users/cadu-/Desktop/FACULDADE/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.Development.json
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.json
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.exe
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.deps.json
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.runtimeconfig.json
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Scrutor.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.AssemblyInfoInputs.cache
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.AssemblyInfo.cs
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/staticwebassets.build.json
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/staticwebassets.development.json
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/scopedcss/bundle/FrameworkGamificacaoAPI.styles.css
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CopyComplete
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.genruntimeconfig.cache
+C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.Development.json
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.json
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.deps.json
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.runtimeconfig.json
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Scrutor.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.Data.SqlClient.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.AssemblyInfoInputs.cache
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.AssemblyInfo.cs
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cache
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/staticwebassets.build.json
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/staticwebassets.development.json
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/scopedcss/bundle/FrameworkGamificacaoAPI.styles.css
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CopyComplete
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.genruntimeconfig.cache
+/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll

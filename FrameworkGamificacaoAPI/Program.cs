@@ -4,6 +4,7 @@ using System.Text;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
 
+var LudusSpecificOrigins = "_ludusSpecificOrigins";
 var builder = WebApplication.CreateBuilder(args);
 IConfiguration configuration = builder.Configuration;
 
@@ -15,7 +16,7 @@ builder.Services.AddSwaggerGen(options => {
     options.AddSecurityDefinition("oauth2",
         new OpenApiSecurityScheme
         {
-            Description = "Autenticação",
+            Description = "Autenticaï¿½ï¿½o",
             In = ParameterLocation.Header,
             Name = "Authorization",
             Type = SecuritySchemeType.ApiKey
@@ -36,6 +37,12 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     };
 });
 
+builder.Services.AddCors(
+    options => options.AddPolicy(name: LudusSpecificOrigins, policy =>
+    {
+        policy.WithOrigins("http://localhost:8080");
+    }));
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -46,6 +53,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseCors(LudusSpecificOrigins);
 
 app.UseAuthentication();
 app.UseAuthorization();
