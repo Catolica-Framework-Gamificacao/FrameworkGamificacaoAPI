@@ -9,65 +9,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5be45d7b-830e-4eaf-bc9b-baaa185b0a22" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/CtlFrameworkGamificacao.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/CtlFrameworkGamificacao.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/CtlFrameworkGamificacao.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/CtlFrameworkGamificacao.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.FrameworkGamificacaoAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FrameworkGamificacaoAPI/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.Extensions.DependencyModel.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.JsonWebTokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Logging.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Protocols.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.IdentityModel.Tokens.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Microsoft.OpenApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Scrutor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Scrutor.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.Abstractions.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Filters.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.Swagger.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerGen.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/Swashbuckle.AspNetCore.SwaggerUI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.Data.SqlClient.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/System.IdentityModel.Tokens.Jwt.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-arm64/native/sni.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x64/native/sni.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win-x86/native/sni.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/FrameworkGamificacaoAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/FrameworkGamificacaoAPI.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/FrameworkGamificacaoAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/FrameworkGamificacaoAPI.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/FrameworkGamificacaoAPI.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/FrameworkGamificacaoAPI.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,6 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="GitIgnore" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -150,6 +98,7 @@
       <workItem from="1659566665986" duration="889000" />
       <workItem from="1659627675431" duration="2588000" />
       <workItem from="1659630425029" duration="161000" />
+      <workItem from="1659650307692" duration="3421000" />
     </task>
     <servers />
   </component>
@@ -159,6 +108,17 @@
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
@@ -203,19 +163,6 @@
             </endOffsets>
           </properties>
           <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/CtlFrameworkGamificacao/DAO.cs</url>
-          <line>26</line>
-          <properties documentPath="$PROJECT_DIR$/CtlFrameworkGamificacao/DAO.cs" initialLine="26" containingFunctionPresentation="method 'FindAll'">
-            <startOffsets>
-              <option value="640" />
-            </startOffsets>
-            <endOffsets>
-              <option value="666" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -40,7 +40,7 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
 builder.Services.AddCors(
     options => options.AddPolicy(name: LudusSpecificOrigins, policy =>
     {
-        policy.WithOrigins("http://localhost:8080");
+        policy.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyMethod();
     }));
 
 var app = builder.Build();
@@ -54,6 +54,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseRouting();
 app.UseCors(LudusSpecificOrigins);
 
 app.UseAuthentication();
