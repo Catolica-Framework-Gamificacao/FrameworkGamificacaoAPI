@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.OpenApi.Models;
 using Swashbuckle.AspNetCore.Filters;
 
-var LudusSpecificOrigins = "_ludusSpecificOrigins";
+const string origins = "_ludusOrigins";
 var builder = WebApplication.CreateBuilder(args);
 IConfiguration configuration = builder.Configuration;
 
@@ -37,11 +37,18 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     };
 });
 
-builder.Services.AddCors(
-    options => options.AddPolicy(name: LudusSpecificOrigins, policy =>
-    {
-        policy.WithOrigins("http://localhost:8080").AllowAnyHeader().AllowAnyMethod();
-    }));
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(
+        name: origins,
+        policy =>
+        {
+            policy.WithOrigins("*")
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        }
+    );
+});
 
 var app = builder.Build();
 
@@ -52,10 +59,9 @@ if (app.Environment.IsDevelopment())
 	app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
-
+//app.UseHttpsRedirection();
 app.UseRouting();
-app.UseCors(LudusSpecificOrigins);
+app.UseCors(origins);
 
 app.UseAuthentication();
 app.UseAuthorization();

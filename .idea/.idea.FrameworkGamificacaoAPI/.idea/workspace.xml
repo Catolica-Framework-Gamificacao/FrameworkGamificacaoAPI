@@ -10,11 +10,15 @@
   <component name="ChangeListManager">
     <list default="true" id="5be45d7b-830e-4eaf-bc9b-baaa185b0a22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FrameworkGamificacaoAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FrameworkGamificacaoAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Program.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,50 +125,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs</url>
-          <line>50</line>
-          <properties documentPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs" initialLine="50" containingFunctionPresentation="method 'LoginProfessor'">
-            <startOffsets>
-              <option value="1570" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1588" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs</url>
-          <line>47</line>
-          <properties documentPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs" initialLine="47" containingFunctionPresentation="method 'LoginProfessor'">
-            <startOffsets>
-              <option value="1413" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1433" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs</url>
-          <line>58</line>
-          <properties documentPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Controllers/Professor/ProfessorController.cs" initialLine="58" containingFunctionPresentation="method 'LoginProfessor'">
-            <startOffsets>
-              <option value="1854" />
-            </startOffsets>
-            <endOffsets>
-              <option value="1895" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
