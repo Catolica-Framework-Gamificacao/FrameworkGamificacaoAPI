@@ -4,9 +4,9 @@ namespace FrameworkGamificacaoAPI.Models.Usuario;
 
 public class UsuarioModel
 {
-    public int id;
+    public int Id;
 
-    public string RA { get; set; }
+    public string Ra { get; set; }
 
     public string Name { get; set; }
 
@@ -18,12 +18,12 @@ public class UsuarioModel
     
     public UsuarioModel(int id, string ra, string name, bool showOnRanking, int points, string token)
     {
-        this.id = id;
-        RA = ra;
-        Name = name;
-        ShowOnRanking = showOnRanking;
-        Points = points;
-        Token = token;
+        this.Id = id;
+        this.Ra = ra;
+        this.Name = name;
+        this.ShowOnRanking = showOnRanking;
+        this.Points = points;
+        this.Token = token;
     }
     
     public UsuarioModel(){}

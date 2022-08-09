@@ -9,27 +9,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5be45d7b-830e-4eaf-bc9b-baaa185b0a22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Common/Enum/UserRole.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Common/Utils/AuthenticationUtils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FrameworkGamificacaoAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FrameworkGamificacaoAPI/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/Usuario/Usuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/Usuario/Usuario.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/ref/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/ref/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/refint/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/obj/Debug/net6.0/refint/CtlFrameworkGamificacao.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CtlFrameworkGamificacao/Usuario/Usuario.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CtlFrameworkGamificacao/Models/Usuario.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Models/Usuario/UsuarioModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/Models/Usuario/UsuarioModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/CtlFrameworkGamificacao.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/bin/Debug/net6.0/FrameworkGamificacaoAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/FrameworkGamificacaoAPI.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/ref/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/Debug/net6.0/refint/FrameworkGamificacaoAPI.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/staticwebassets.pack.sentinel" beforeDir="false" afterPath="$PROJECT_DIR$/FrameworkGamificacaoAPI/obj/staticwebassets.pack.sentinel" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,10 +27,7 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Common/Utils/AuthenticationUtils.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/Enum/UserRole.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/14cc91cb3474a5144928bcedadcf7b5db2f7bc54c84176da99b0261c3a336e/CorsServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/Enum.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />

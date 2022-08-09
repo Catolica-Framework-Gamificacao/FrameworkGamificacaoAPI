@@ -2,9 +2,9 @@ namespace FrameworkGamificacaoClasses.Usuario;
 
 public class Usuario
 {
-    public int id;
+    public int Id;
     
-    public string RA { get; set; }
+    public string Ra { get; set; }
 
     public string Name { get; set; }
 
