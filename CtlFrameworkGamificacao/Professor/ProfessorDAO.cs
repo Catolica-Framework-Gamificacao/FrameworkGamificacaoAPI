@@ -22,6 +22,7 @@ namespace FrameworkGamificacaoClasses
 								  ,PF.usuarioProfessor
 								  ,PF.emailProfessor
 								  ,PF.senha
+								  ,PF.token
 							FROM CtlCadProfessor PF
 							WHERE 1=1";
 			if (!string.IsNullOrEmpty(filtro.Usuario))
@@ -46,7 +47,8 @@ namespace FrameworkGamificacaoClasses
 								, Convert.ToString(dr["nomeProfessor"])
 								, Convert.ToString(dr["usuarioProfessor"])
 								, Convert.ToString(dr["emailProfessor"])
-								, Convert.ToString(dr["senha"]));
+								, Convert.ToString(dr["senha"])
+								, Convert.ToString(dr["token"]));
 		}
 
 		public override void Delete(Professor obj)

@@ -407,10 +407,7 @@
         },
         "runtime": {
           "bin/placeholder/CtlFrameworkGamificacao.dll": {}
-        },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        }
       }
     }
   },
@@ -1248,19 +1245,19 @@
     ]
   },
   "packageFolders": {
-    "/home/desenvolvedor/.nuget/packages/": {}
+    "C:\\Users\\IBTech\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI.csproj",
+      "projectUniqueName": "C:\\dev\\faculdade\\ludus-api\\FrameworkGamificacaoAPI\\FrameworkGamificacaoAPI.csproj",
       "projectName": "FrameworkGamificacaoAPI",
-      "projectPath": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/FrameworkGamificacaoAPI.csproj",
-      "packagesPath": "/home/desenvolvedor/.nuget/packages/",
-      "outputPath": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/FrameworkGamificacaoAPI/obj/",
+      "projectPath": "C:\\dev\\faculdade\\ludus-api\\FrameworkGamificacaoAPI\\FrameworkGamificacaoAPI.csproj",
+      "packagesPath": "C:\\Users\\IBTech\\.nuget\\packages\\",
+      "outputPath": "C:\\dev\\faculdade\\ludus-api\\FrameworkGamificacaoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/desenvolvedor/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\IBTech\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -1272,8 +1269,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/CtlFrameworkGamificacao.csproj": {
-              "projectPath": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/CtlFrameworkGamificacao.csproj"
+            "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\CtlFrameworkGamificacao.csproj": {
+              "projectPath": "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\CtlFrameworkGamificacao.csproj"
             }
           }
         }
@@ -1307,7 +1304,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1319,7 +1317,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

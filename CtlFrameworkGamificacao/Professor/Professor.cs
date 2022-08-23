@@ -13,14 +13,16 @@ namespace FrameworkGamificacaoClasses
 		public string Usuario { get; set; }
 		public string Email { get; set; }
 		public string Senha { get; set; }
+		public string Token { get; set; }
 
-		public Professor(bool existe, string nomeProfessor, string usuario, string email, string senha)
+		public Professor(bool existe, string nomeProfessor, string usuario, string email, string senha, string token)
 		{
 			Existe = existe;
 			NomeProfessor = nomeProfessor;
 			Usuario = usuario;
 			Email = email;
 			Senha = senha;
+			Token = token;
 		}
 	}
 }

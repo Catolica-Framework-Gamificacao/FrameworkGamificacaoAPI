@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/CtlFrameworkGamificacao.csproj": {}
+    "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\CtlFrameworkGamificacao.csproj": {}
   },
   "projects": {
-    "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/CtlFrameworkGamificacao.csproj": {
+    "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\CtlFrameworkGamificacao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/CtlFrameworkGamificacao.csproj",
+        "projectUniqueName": "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\CtlFrameworkGamificacao.csproj",
         "projectName": "CtlFrameworkGamificacao",
-        "projectPath": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/CtlFrameworkGamificacao.csproj",
-        "packagesPath": "/home/desenvolvedor/.nuget/packages/",
-        "outputPath": "/home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/obj/",
+        "projectPath": "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\CtlFrameworkGamificacao.csproj",
+        "packagesPath": "C:\\Users\\IBTech\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\faculdade\\ludus-api\\CtlFrameworkGamificacao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/desenvolvedor/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\IBTech\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -53,19 +53,17 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
