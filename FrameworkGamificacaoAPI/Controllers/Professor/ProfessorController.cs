@@ -51,19 +51,20 @@ namespace FrameworkGamificacaoAPI
                 connection.Open();
                 professor = new ProfessorDAO(connection).FindOne(login);
                 connection.Close();
-                if (professor != null)
-                {
-                    return Ok(CreateToken(professor));
-                }
+                
+                if (professor == null) return BadRequest("Invalid credentials");
+                
+                var token = CreateToken(professor);
+                professor.Token = token;
+                return Ok(professor);
             }
-            return BadRequest("Invalid credentials"); ;
         }
 
         private string CreateToken(Professor professor)
         {
             var claims = new[] {
-                        new Claim(ClaimTypes.NameIdentifier, professor.Usuario),
-                    };
+                new Claim(ClaimTypes.NameIdentifier, professor.Usuario),
+            };
 
             var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(_configuration["Jwt:Key"]));
             var signIn = new SigningCredentials(key, SecurityAlgorithms.HmacSha512Signature);
