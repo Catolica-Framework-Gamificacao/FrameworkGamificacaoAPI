@@ -24,5 +24,15 @@ namespace FrameworkGamificacaoClasses
 			Senha = senha;
 			Token = token;
 		}
+
+		public Professor(bool existe, string nomeProfessor, string usuario, string email, string senha)
+		{
+			Existe = existe;
+			NomeProfessor = nomeProfessor;
+			Usuario = usuario;
+			Email = email;
+			Senha = senha;
+			Token = null;
+		}
 	}
 }

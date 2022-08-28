@@ -10,6 +10,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrameworkGamificacaoAPI", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CtlFrameworkGamificacao", "CtlFrameworkGamificacao\CtlFrameworkGamificacao.csproj", "{FA028966-9782-4EDB-AFFF-70B7887C13B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ludus.Test", "Ludus.Test\Ludus.Test.csproj", "{82B27DB0-D033-4DCD-A946-ABEA364B805B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{FA028966-9782-4EDB-AFFF-70B7887C13B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA028966-9782-4EDB-AFFF-70B7887C13B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA028966-9782-4EDB-AFFF-70B7887C13B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82B27DB0-D033-4DCD-A946-ABEA364B805B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82B27DB0-D033-4DCD-A946-ABEA364B805B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82B27DB0-D033-4DCD-A946-ABEA364B805B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82B27DB0-D033-4DCD-A946-ABEA364B805B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

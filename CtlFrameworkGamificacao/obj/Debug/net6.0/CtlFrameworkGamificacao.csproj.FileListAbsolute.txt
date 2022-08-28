@@ -22,3 +22,15 @@ C:/Users/cadu-/Desktop/FACULDADE/Projeto Framework Gamificação/FrameworkGamifi
 /home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/obj/Debug/net6.0/refint/CtlFrameworkGamificacao.dll
 /home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/obj/Debug/net6.0/CtlFrameworkGamificacao.pdb
 /home/desenvolvedor/dev/faculdade/fw-gamification-api/CtlFrameworkGamificacao/obj/Debug/net6.0/ref/CtlFrameworkGamificacao.dll
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\bin\Debug\net6.0\CtlFrameworkGamificacao.deps.json
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\bin\Debug\net6.0\CtlFrameworkGamificacao.dll
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\bin\Debug\net6.0\CtlFrameworkGamificacao.pdb
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.csproj.AssemblyReference.cache
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.AssemblyInfoInputs.cache
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.AssemblyInfo.cs
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.csproj.CoreCompileInputs.cache
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.dll
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\refint\CtlFrameworkGamificacao.dll
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\CtlFrameworkGamificacao.pdb
+C:\dev\faculdade\ludus-api\CtlFrameworkGamificacao\obj\Debug\net6.0\ref\CtlFrameworkGamificacao.dll
