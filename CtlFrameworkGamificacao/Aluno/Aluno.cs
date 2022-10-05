@@ -6,24 +6,48 @@ using System.Threading.Tasks;
 
 namespace FrameworkGamificacaoClasses
 {
-	public class Aluno
+	public class Aluno : IBaseEntity, IUsuario
 	{
-		public bool Existe { get; set; }
-		public int RA { get; set; }
-		public string UsuarioAluno { get; set; }
-		public string NomeAluno { get; set; }
-		public string EmailAluno { get; set; }
+		public long ID { get; set; }
+		public DateTime DateCreation { get; set; }
+		public DateTime DateUpdate { get; set; }
+		public string Nome { get; set; }
+		public string Email { get; set; }
+		public string Senha { get; set; }
+		public UserRole Role { get; set; }
+		public string Avatar { get; set; }
+		public UserStatus Situacao { get; set; }
+		public string RA { get; set; }
+		public bool ExibirRanking { get; set; }
+		public double PontuacaoGeral { get; set; }
 		public List<AlunoDisciplina> Disciplinas { get; set; }
-		public bool ExibirNome { get; set; }
-		public Aluno(bool existe, int ra,string usuarioAluno, string nomeAluno,string emailAluno, List<AlunoDisciplina> disciplinas, bool exibirNome)
+		public Aluno(long iD,
+				     DateTime dateCreation,
+					 DateTime dateUpdate,
+					 string nome,
+					 string email,
+					 string senha,
+					 UserRole role,
+					 UserStatus status,
+					 string avatar,
+					 string rA,
+					 bool exibirRanking,
+					 double pontuacaoGeral,
+					 List<AlunoDisciplina> disciplinas)
 		{
-			Existe = existe;
-			RA = ra;
-			NomeAluno = nomeAluno;
-			UsuarioAluno = usuarioAluno;
-			EmailAluno = emailAluno;
+			ID = iD;
+			DateCreation = dateCreation;
+			DateUpdate = dateUpdate;
+			Nome = nome;
+			Email = email;
+			Senha = senha;
+			Role = role;
+			Situacao = status;
+			Avatar = avatar;
+			RA = rA;
+			ExibirRanking = exibirRanking;
+			PontuacaoGeral = pontuacaoGeral;
 			Disciplinas = disciplinas;
-			ExibirNome = exibirNome;
 		}
 	}
 }

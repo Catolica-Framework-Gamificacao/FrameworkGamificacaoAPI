@@ -6,12 +6,10 @@ using System.Threading.Tasks;
 
 namespace FrameworkGamificacaoClasses
 {
-	public class AlunoFiltro
+	public interface IBaseEntity
 	{
-		public int? RA { get; set; }
-
-		public string UsuarioAluno { get; set; }
-
-		public int? CodDisciplina { get; set; }
+		public long ID { get; set; }
+		public DateTime DateCreation { get; set; }
+		public DateTime DateUpdate { get; set; }
 	}
 }

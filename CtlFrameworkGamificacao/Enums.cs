@@ -6,10 +6,17 @@ using System.Threading.Tasks;
 
 namespace FrameworkGamificacaoClasses
 {
-	public class LoginProfessor
+	public enum UserRole
 	{
-		public string Usuario { get; set; }
-		public string Email { get; set; }
-		public string Senha { get; set; }
+		Administrator,
+		Professor,
+		Student
 	}
+
+	public enum UserStatus
+	{
+		Ativo,
+		Inativo
+	}
+
 }

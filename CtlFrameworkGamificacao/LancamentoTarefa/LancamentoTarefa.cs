@@ -6,20 +6,21 @@ using System.Threading.Tasks;
 
 namespace FrameworkGamificacaoClasses
 {
-	public class AlunoDisciplina : IBaseEntity
+	public class LancamentoTarefa : IBaseEntity
 	{
 		public long ID { get; set; }
 		public DateTime DateCreation { get; set; }
 		public DateTime DateUpdate { get; set; }
-		public Disciplina Disciplina { get; set; }
+		public Tarefa Tarefa { get; set; }
 		public Aluno Aluno { get; set; }
 		public double Pontuacao { get; set; }
-		public AlunoDisciplina(long iD, DateTime dateCreation, DateTime dateUpdate, Disciplina disciplina, Aluno aluno, double pontuacao)
+
+		public LancamentoTarefa(long iD, DateTime dateCreation, DateTime dateUpdate, Tarefa tarefa, Aluno aluno, double pontuacao)
 		{
 			ID = iD;
 			DateCreation = dateCreation;
 			DateUpdate = dateUpdate;
-			Disciplina = disciplina;
+			Tarefa = tarefa;
 			Aluno = aluno;
 			Pontuacao = pontuacao;
 		}

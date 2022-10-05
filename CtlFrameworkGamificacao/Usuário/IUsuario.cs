@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace FrameworkGamificacaoClasses
 {
-	public class ProfessorFiltro
+	public interface IUsuario
 	{
-		public string Usuario { get; set; }
+		public string Nome { get; set; }
 		public string Email { get; set; }
 		public string Senha { get; set; }
-
+		public UserRole Role { get; set; }
+		public string Avatar { get; set; }
+		public UserStatus Situacao { get; set; }
 	}
 }
